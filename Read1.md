@@ -1,6 +1,5 @@
 # Markdown
 We use markdown to make easy editting and format pages in web to get the wanted style of texts, adding images, adding link's and creating lists.
-This photo will help you Format : ![To styling texts use](pic.1.PNG)
 we can use it around github.
 Also you can [read more about Markdown](https://guides.github.com/features/mastering-markdown/).
 
