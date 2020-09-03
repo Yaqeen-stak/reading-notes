@@ -1,4 +1,4 @@
-# personal introduction
+# Personal introduction
 
 I Am Yaqeen Mazen Hamd ,am 28 years old and i studied Mechatronics Engineering at the Hashemite University
 I have many experiences, some in my field and others in various fields such as teaching and nursing.
